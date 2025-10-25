@@ -19,24 +19,5 @@ Le joueur gagne lorsqu’il ne reste qu’une seule bille.
 - Possibilité d’annuler un coup (undo)
 - Fin de partie automatique (gagné ou perdu)
 
----
 
-## 🧠 Langage et outils
-- **Langage :** C++
-- **Compilation :** g++ ou tout autre compilateur compatible C++11 ou supérieur
-- **Interface :** Console
-/** \brief
- *
- * \param
- * \param
- * \return
- *
- */
 
----
-
-## ▶️ Compilation et exécution
-
-### Pour compiler :
-```bash
-g++ -std=c++17 main.cpp -o solitaire
